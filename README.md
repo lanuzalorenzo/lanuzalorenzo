@@ -39,4 +39,4 @@ Aplico este aprendizaje en proyectos y laboratorios donde documento configuracio
 ---
 
 ## 🎯 Objetivo profesional
-Desarrollar un perfil técnico sólido en
+Desarrollar un perfil técnico sólido en ciberseguridad y cloud, apoyado en práctica real, documentación y proyectos técnicos.
