@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hola, soy Lorenzo Lanuza Arellano
 
-<!--
-**lanuzalorenzo/lanuzalorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero con experiencia en **desarrollo**, **SRE**, **arquitectura técnica** y **entornos Azure**, actualmente ampliando mi perfil hacia **Ciberseguridad**, **Cloud Security** y **DevSecOps**.
 
-Here are some ideas to get you started:
+Mi enfoque actual es aplicar mi base técnica a nuevas áreas de seguridad, construyendo un aprendizaje sólido mediante práctica, documentación y laboratorios reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 Experiencia profesional
+He trabajado en roles técnicos relacionados con:
+- Desarrollo y mantenimiento de APIs y microservicios (.NET)
+- SRE y análisis de incidencias (RCA, observabilidad, resiliencia)
+- Arquitectura y despliegues en Azure
+- SQL Server, optimización y análisis de rendimiento
+- Automatización y flujos DevOps
+
+---
+
+## 🔐 Formación y aprendizaje actual
+Actualmente estoy aprendiendo y practicando:
+- Seguridad en Azure (Azure AD / Entra ID)
+- AppSec aplicada a APIs y microservicios
+- DevSecOps y pipelines seguros
+- Cloud Security y hardening de entornos
+- Documentación técnica y bitácoras profesionales
+
+Mi aprendizaje se refleja en un **portfolio técnico** donde documento laboratorios, configuraciones y análisis prácticos.
+
+---
+
+## 🛠 Tecnologías y herramientas
+- Azure AD, Entra ID  
+- JWT, OAuth2, OpenID Connect  
+- VS Code, Continue, Ollama  
+- Linux, Bash  
+- Git, GitHub  
+- Markdown técnico y documentación profesional
+
+---
+
+## 🎯 Objetivo profesional
+Desarrollar un perfil técnico sólido en ciberseguridad y cloud, apoyado en práctica real, documentación y proyectos técnicos.
+
+---
+
+## 📫 Contacto
+**LinkedIn:** https://www.linkedin.com/in/lanuzalorenzo  
+**Ubicación:** Huesca, España
