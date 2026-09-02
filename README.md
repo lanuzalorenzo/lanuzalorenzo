@@ -22,9 +22,9 @@ Actualmente estoy aprendiendo y practicando:
 - AppSec aplicada a APIs y microservicios
 - DevSecOps y pipelines seguros
 - Cloud Security y hardening de entornos
-- Documentación técnica y bitácoras profesionales
+- Documentación técnica y análisis técnico
 
-Mi aprendizaje se refleja en un **portfolio técnico** donde documento laboratorios, configuraciones y análisis prácticos.
+Aplico este aprendizaje en proyectos y laboratorios donde documento configuraciones, procesos y resultados técnicos.
 
 ---
 
@@ -39,10 +39,4 @@ Mi aprendizaje se refleja en un **portfolio técnico** donde documento laborator
 ---
 
 ## 🎯 Objetivo profesional
-Desarrollar un perfil técnico sólido en ciberseguridad y cloud, apoyado en práctica real, documentación y proyectos técnicos.
-
----
-
-## 📫 Contacto
-**LinkedIn:** https://www.linkedin.com/in/lanuzalorenzo  
-**Ubicación:** Huesca, España
+Desarrollar un perfil técnico sólido en
