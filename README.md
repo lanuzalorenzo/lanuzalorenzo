@@ -24,8 +24,11 @@ Actualmente estoy aprendiendo y practicando:
 - Cloud Security y hardening de entornos
 - Documentación técnica y análisis técnico
 
-Aplico este aprendizaje en proyectos y laboratorios donde documento configuraciones, procesos y resultados técnicos.
+📘 Portfolio de Ciberseguridad
+Trabajo práctico en Cloud Security, Identidad en Azure, Auditorías Cloud, Defender for Cloud, Azure Policies, Key Vault, DevSecOps y AppSec.
+Incluye laboratorios reales, documentación técnica, bitácoras y proyectos aplicados.
 
+🔗 Portfolio completo: https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo
 ---
 
 ## 🛠 Tecnologías y herramientas
