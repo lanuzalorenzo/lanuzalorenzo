@@ -1,57 +1,43 @@
 # 👋 Hola, soy Lorenzo Lanuza Arellano
 
-Ingeniero con experiencia en **desarrollo**, **SRE**, **arquitectura técnica** y **entornos Azure**.  
-Actualmente estoy ampliando mi perfil hacia **Ciberseguridad**, **Cloud Security** y **DevSecOps**, aplicando mi base técnica a nuevas áreas mediante **laboratorios reales**, **documentación profesional** y **proyectos prácticos**.
+**Ingeniero de software y SRE con experiencia en Azure, orientado a Cloud Security, AppSec y DevSecOps.**
 
-## 🧩 Experiencia profesional
+Combino experiencia en desarrollo de APIs y microservicios con .NET, operación de servicios y arquitectura cloud. Estoy ampliando mi trayectoria hacia la ciberseguridad, aplicando esa base técnica al diseño y análisis de controles de seguridad.
 
-He trabajado en roles técnicos relacionados con:
-- Desarrollo y mantenimiento de APIs y microservicios (.NET)
-- SRE: análisis de incidencias, RCA, observabilidad y resiliencia
-- Arquitectura y despliegues en Azure
-- SQL Server: optimización y análisis de rendimiento
-- Automatización y flujos DevOps
+## 🧭 Experiencia
 
-## 🔐 Formación y aprendizaje actual
+- Desarrollo y mantenimiento de APIs y microservicios con .NET.
+- SRE: análisis de incidencias, RCA, observabilidad y resiliencia.
+- Arquitectura y despliegues en Azure.
+- SQL Server: análisis de rendimiento y optimización.
+- Automatización y flujos DevOps.
 
-Estoy centrado en:
-- Seguridad en Azure (Azure AD / Entra ID)
-- AppSec aplicada a APIs y microservicios
-- DevSecOps y pipelines seguros
-- Cloud Security y hardening de entornos
-- Documentación técnica y análisis profesional
+## 🔐 Áreas de interés
 
-## 📘 Portfolio de Ciberseguridad
+- **Cloud Security:** seguridad de identidades, postura cloud, auditoría y hardening.
+- **AppSec:** seguridad de APIs, OAuth 2.0, OpenID Connect, PKCE y validación de tokens.
+- **DevSecOps:** protección de repositorios e integración de controles de seguridad en el ciclo de desarrollo.
+- **Microsoft Security:** Microsoft Entra ID y Microsoft Defender.
 
-Trabajo práctico en:
-- Cloud Security
-- Identidad en Azure
-- Auditorías Cloud
-- Defender for Cloud
-- Azure Policies
-- Key Vault
-- DevSecOps
-- AppSec
+## 🧪 Portfolio
 
-Incluye laboratorios reales, documentación técnica, bitácoras y proyectos aplicados.
+En mi [portfolio de ciberseguridad](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo) comparto documentación técnica y trabajo práctico relacionado con Azure, identidad, seguridad cloud y DevSecOps.
 
-🔗 **Portfolio completo:**  
-https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo
+El repositorio evoluciona con mi aprendizaje y refleja el alcance y el estado de validación de cada proyecto.
 
-## 🛠 Tecnologías y herramientas
+## 🛠 Tecnologías
 
-- Azure AD, Entra ID  
-- JWT, OAuth2, OpenID Connect  
-- VS Code, Continue, Ollama  
-- Linux, Bash  
-- Git, GitHub  
-- Markdown técnico y documentación profesional  
+**Cloud y seguridad:** Microsoft Azure, Microsoft Entra ID, Microsoft Defender  
+**Identidad y APIs:** OAuth 2.0, OpenID Connect, PKCE, JWT/JWKS  
+**Ingeniería:** .NET, SQL Server, Linux, Bash, Git y GitHub  
+**Documentación:** Markdown técnico
 
 ## 🎯 Objetivo profesional
 
-Consolidar un perfil técnico sólido en **ciberseguridad** y **cloud**, apoyado en práctica real, documentación y proyectos aplicados.
+Seguir desarrollándome en ciberseguridad cloud, AppSec y DevSecOps, aportando experiencia en desarrollo, SRE y arquitectura técnica.
 
 ## 📫 Contacto
 
-**LinkedIn:** https://www.linkedin.com/in/lanuzalorenzo  
-**Ubicación:** Huesca, España
+- [LinkedIn](https://www.linkedin.com/in/lanuzalorenzo)
+- Huesca, España
+```****
