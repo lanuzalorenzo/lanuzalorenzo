@@ -40,4 +40,3 @@ Seguir desarrollándome en ciberseguridad cloud, AppSec y DevSecOps, aportando e
 
 - [LinkedIn](https://www.linkedin.com/in/lanuzalorenzo)
 - Huesca, España
-```****
