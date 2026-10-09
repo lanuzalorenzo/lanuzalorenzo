@@ -2,7 +2,9 @@
 
 **Ingeniero de software y SRE con experiencia en Azure, orientado a Cloud Security, AppSec y DevSecOps.**
 
-Combino experiencia en desarrollo de APIs y microservicios con .NET, operación de servicios y arquitectura cloud. Estoy ampliando mi trayectoria hacia la ciberseguridad, aplicando esa base técnica al diseño y análisis de controles de seguridad.
+🎓 **Formación en curso:** he comenzado el Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información. Incluye incidentes de ciberseguridad, bastionado, puesta en producción segura, análisis forense, hacking ético y normativa.
+
+Combino experiencia en desarrollo de APIs y microservicios con .NET, operación de servicios y arquitectura cloud. Estoy ampliando mi trayectoria hacia la ciberseguridad y aplicando esa base técnica al diseño y análisis de controles de seguridad.
 
 ## 🧭 Experiencia
 
@@ -17,6 +19,7 @@ Combino experiencia en desarrollo de APIs y microservicios con .NET, operación 
 - **Cloud Security:** seguridad de identidades, postura cloud, auditoría y hardening.
 - **AppSec:** seguridad de APIs, OAuth 2.0, OpenID Connect, PKCE y validación de tokens.
 - **DevSecOps:** protección de repositorios e integración de controles de seguridad en el ciclo de desarrollo.
+- **Operaciones de seguridad:** gestión de incidentes, análisis forense y detección.
 - **Microsoft Security:** Microsoft Entra ID y Microsoft Defender.
 
 ## 🧪 Portfolio
