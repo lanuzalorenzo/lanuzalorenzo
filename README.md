@@ -3,6 +3,7 @@
 **Software Architect (.NET & Azure) | DevSecOps & Cloud Security Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Lanuza-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/lanuzalorenzo)
+[![Web personal](https://img.shields.io/badge/Web-lanuzalorenzo.github.io-4F6621?style=flat&logo=githubpages)](https://lanuzalorenzo.github.io)
 [![Portfolio Ciberseguridad](https://img.shields.io/badge/Portfolio-Ciberseguridad%20Cloud-0078D4?style=flat&logo=microsoftazure)](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo)
 [![Email](https://img.shields.io/badge/Email-lanuzalorenzo%40gmail.com-D14836?style=flat&logo=gmail)](mailto:lanuzalorenzo@gmail.com)
 [![Ubicación](https://img.shields.io/badge/Ubicación-Huesca%2C%20Espa%C3%B1a%20(Remoto)-24292e?style=flat&logo=googlemaps)](https://www.linkedin.com/in/lanuzalorenzo)
@@ -118,5 +119,4 @@ Actualmente aplico toda esa experiencia en el diseño de software resiliente y s
 - **Email:** [lanuzalorenzo@gmail.com](mailto:lanuzalorenzo@gmail.com)
 - **GitHub:** [github.com/lanuzalorenzo](https://github.com/lanuzalorenzo)
 - **Ubicación:** Huesca, España (Disponible para posiciones en remoto)
-
 
