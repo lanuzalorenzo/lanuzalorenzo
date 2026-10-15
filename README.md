@@ -51,6 +51,15 @@ Actualmente aplico toda esa experiencia en el diseño de software resiliente y s
 </details>
 
 <details>
+<summary><strong>Software Engineer / Backend .NET Developer — Aktios / Cliente: Vueling Airlines</strong> (12/2017 – 07/2019)</summary>
+
+*Desarrollo backend e integración de servicios de alta disponibilidad para plataformas móviles y sistemas transaccionales core de negocio.*
+- **APIs de alta concurrencia:** Desarrollo de servicios .NET para la app móvil de ventas (+500k peticiones diarias), disminuyendo la latencia de reserva un 35% y optimizando consultas complejas.
+- **Gestión end-to-end:** Coordinación de objetivos técnicos y de negocio con Product Owners y QA bajo Scrum, garantizando el 100% de entregas a tiempo y mitigando bloqueos un 40%.
+
+</details>
+
+<details>
 <summary><strong>Software Engineer / .NET Developer — Deloitte España (DXD Applications)</strong> (11/2016 – 12/2017)</summary>
 
 *Desarrollo de soluciones empresariales sobre tecnología Microsoft para grandes clientes corporativos.*
@@ -119,4 +128,3 @@ Actualmente aplico toda esa experiencia en el diseño de software resiliente y s
 - **Email:** [lanuzalorenzo@gmail.com](mailto:lanuzalorenzo@gmail.com)
 - **GitHub:** [github.com/lanuzalorenzo](https://github.com/lanuzalorenzo)
 - **Ubicación:** Huesca, España (Disponible para posiciones en remoto)
-
