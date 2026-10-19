@@ -12,7 +12,7 @@
 
 ### 🛡️ Perfil profesional y propuesta de valor
 
-Soy **Ingeniero de Software Senior y Arquitecto de Software** con más de 8 años de trayectoria en el ecosistema **.NET y Microsoft Azure**, especializado en sistemas distribuidos, arquitecturas orientadas a eventos (EDA) y microservicios de alta concurrencia.
+Soy **Arquitecto de Software y especialista en Ciberseguridad Cloud / DevSecOps** con más de 8 años de trayectoria en el ecosistema **.NET y Microsoft Azure**, especializado en sistemas distribuidos, arquitecturas orientadas a eventos (EDA) y microservicios de alta concurrencia.
 
 Actualmente aplico toda esa experiencia en el diseño de software resiliente y seguro mediante la especialización en **Cloud Security y DevSecOps**. Mi propuesta de valor diferencial para equipos de ingeniería y ciberseguridad es clara:
 
@@ -26,8 +26,8 @@ Actualmente aplico toda esa experiencia en el diseño de software resiliente y s
 <summary><strong>Senior Software Engineer & Software Architect — Domingo Alonso Group</strong> (04/2023 – 09/2026)</summary>
 
 *Definición arquitectónica, refactorización, modernización a .NET 10 y diseño de sistemas distribuidos en Azure.*
-- **Arquitectura Cloud & Event-Driven:** Diseño e implantación de sistemas en Azure (EDA, Azure Service Bus) aplicando Outbox Pattern y Feature Flags, asegurando un 100% de consistencia transaccional y reduciendo la latencia un 40%.
-- **Modernización técnica:** Liderazgo en la migración a .NET 10 coordinando equipos multidisciplinares y stakeholders técnicos, reduciendo la complejidad del sistema un 70%.
+- **Arquitectura Cloud & Event-Driven:** Diseño e implantación de sistemas en Azure (EDA, Azure Service Bus) aplicando Outbox Pattern y Feature Flags, con consistencia transaccional en los flujos implementados y una reducción de latencia en torno al 40%.
+- **Modernización técnica:** Liderazgo en la migración a .NET 10 coordinando equipos multidisciplinares y stakeholders técnicos, reduciendo la complejidad operativa del sistema en torno a un 70%.
 - **Estandarización:** Consolidación de un stack tecnológico heterogéneo sobre arquitecturas de alto rendimiento (+30% de eficiencia global).
 
 </details>
@@ -55,7 +55,7 @@ Actualmente aplico toda esa experiencia en el diseño de software resiliente y s
 
 *Desarrollo backend e integración de servicios de alta disponibilidad para plataformas móviles y sistemas transaccionales core de negocio.*
 - **APIs de alta concurrencia:** Desarrollo de servicios .NET para la app móvil de ventas (+500k peticiones diarias), disminuyendo la latencia de reserva un 35% y optimizando consultas complejas.
-- **Gestión end-to-end:** Coordinación de objetivos técnicos y de negocio con Product Owners y QA bajo Scrum, garantizando el 100% de entregas a tiempo y mitigando bloqueos un 40%.
+- **Gestión end-to-end:** Coordinación de objetivos técnicos y de negocio con Product Owners y QA bajo Scrum, manteniendo el cumplimiento de plazos y mitigando bloqueos en torno a un 40%.
 
 </details>
 
@@ -80,7 +80,7 @@ Actualmente aplico toda esa experiencia en el diseño de software resiliente y s
 ```
 
 - **Arquitectura de Software (.NET & Azure):** Microservicios, Clean Architecture, Domain-Driven Design (DDD), Event-Driven Architecture (Azure Service Bus, Event Hubs), Outbox Pattern y APIs REST de alto rendimiento.
-- **DevSecOps & Supply Chain Security:** Integración de seguridad en pipelines de Azure DevOps y GitHub Actions, escaneo continuo (SAST con SonarQube, SCA de dependencias con Trivy, Secret Scanning), seguridad en contenedores Docker y despliegues sin secretos fijos mediante federación OIDC / Workload Identity.
+- **DevSecOps & Supply Chain Security:** Integración de seguridad en pipelines de Azure DevOps y GitHub Actions, escaneo continuo (SAST con CodeQL/SonarQube, SCA con Trivy, secret scanning con Gitleaks), seguridad en contenedores Docker, IaC con Bicep y despliegues sin secretos fijos mediante federación OIDC / Workload Identity.
 - **AppSec & API Security:** Diseño seguro de APIs bajo directrices OWASP Top 10 y OWASP API Security Top 10, autenticación y autorización con OAuth 2.0 / OpenID Connect / PKCE, validación estricta de JWT/JWKS y rate limiting.
 - **Cloud Security & Gobierno (Azure):** Control de acceso e identidades con Microsoft Entra ID (MFA, PIM/JIT, Conditional Access, Managed Identities y Key Vault con Azure RBAC), gestión de postura con Microsoft Defender for Cloud (MCSB / CIS Benchmarks) y detección con Microsoft Sentinel.
 
@@ -88,10 +88,14 @@ Actualmente aplico toda esa experiencia en el diseño de software resiliente y s
 
 ### 📂 Proyectos destacados y Portfolio
 
-| Proyecto / Repositorio | Ámbito principal | Aspectos técnicos destacados |
-|---|---|---|
-| [**Portfolio de Ciberseguridad Cloud**](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo) | Cloud Security & DevSecOps | Laboratorios verificables sobre **Entra ID, Defender for Cloud, Sentinel (KQL), PIM/JIT, auditoría de suscripciones y DevSecOps** (protección de ramas, SAST/SCA/IaC). |
-| **API Segura de Referencia (.NET & Azure)** | AppSec, Arquitectura & DevSecOps | Implementación de API REST empresarial con arquitectura desacoplada, autenticación OAuth 2.0/PKCE, validación de JWT/JWKS, contenedor Docker hardening (non-root) y pipeline DevSecOps automatizado. |
+| Proyecto / Repositorio | Ámbito principal | Aspectos técnicos destacados | Estado |
+|---|---|---|---|
+| [**Portfolio de Ciberseguridad Cloud**](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo) | Cloud Security & DevSecOps | 12 módulos: **Entra ID, Defender, Sentinel (KQL), PIM/JIT, auditoría cloud, DevSecOps, hacking ético de APIs y forense cloud**, con estado de validación explícito. | Documentado |
+| [**EcommerceApi — API Segura de Referencia**](https://github.com/lanuzalorenzo/lab-api-local-azure) | AppSec, Arquitectura & DevSecOps | API .NET 10 con OAuth 2.0/PKCE, JWT/JWKS, aislamiento BOLA por usuario, DTOs, 10 pruebas de integración, Docker no-root, CodeQL, Trivy y Bicep. | Implementado y probado localmente |
+| [**AI Agent Local Lab**](https://github.com/lanuzalorenzo/ai-agent-local-lab) | IA local & Developer Tooling | Servidor bare-metal con Ollama, modelos abiertos, OpenCode y criterios de seguridad para prompts y datos. | Documentado |
+| [**Web personal**](https://lanuzalorenzo.github.io) | Presentación profesional | Sitio estático accesible, con experiencia, especialidades, proyectos y enlaces al ecosistema. | Publicado |
+
+> **Criterio de estado:** *Implementado y probado localmente* significa que el código se ejecuta y las pruebas pasan en el entorno de desarrollo. *Documentado* significa que la arquitectura, el procedimiento o el laboratorio están descritos, sin presentarlos como un despliegue de producción.
 
 ---
 
