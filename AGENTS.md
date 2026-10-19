@@ -6,6 +6,7 @@ Este repositorio genera la portada pública del perfil de GitHub (README de perf
 - Mantener el posicionamiento técnico sénior: Software Architect (.NET & Azure) especializado en Cloud Security y DevSecOps.
 - Reflejar con rigor la experiencia contrastada, métricas de impacto cuantitativas y certificaciones oficiales.
 - Enlazar al portfolio público de ciberseguridad sin revelar datos o enlaces a repositorios privados del curso.
+- Mantener la tabla de proyectos y estados alineada con el portfolio; no presentar un diseño o un runbook preparado como validación.
 
 ## Convenciones de Commits
 Todos los commits de este repositorio deben seguir estrictamente el estándar **Conventional Commits**:
