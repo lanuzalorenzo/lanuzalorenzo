@@ -90,7 +90,7 @@ Actualmente aplico toda esa experiencia en el diseño de software resiliente y s
 
 | Proyecto / Repositorio | Ámbito principal | Aspectos técnicos destacados | Estado |
 |---|---|---|---|
-| [**Portfolio de Ciberseguridad Cloud**](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo) | Cloud Security & DevSecOps | 12 módulos: **Entra ID, Defender, Sentinel (KQL), PIM/JIT, auditoría cloud, DevSecOps, hacking ético de APIs y forense cloud**, con estado de validación explícito. | Documentado |
+| [**Portfolio de Ciberseguridad Cloud**](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo) | Cloud Security & DevSecOps | 12 módulos: **Entra ID, Defender, Sentinel (KQL), PIM/JIT, auditoría cloud, DevSecOps, hacking ético de APIs y forense cloud**, con estado de validación explícito y laboratorio final en preparación (ELK con runbook listo). | Documentado · laboratorio en preparación |
 | [**EcommerceApi — API Segura de Referencia**](https://github.com/lanuzalorenzo/lab-api-local-azure) | AppSec, Arquitectura & DevSecOps | API .NET 10 con OAuth 2.0/PKCE, JWT/JWKS, aislamiento BOLA por usuario, DTOs, 10 pruebas de integración, Docker no-root, CodeQL, Trivy y Bicep. | Implementado, probado y validado en CI |
 | [**AI Agent Local Lab**](https://github.com/lanuzalorenzo/ai-agent-local-lab) | IA local & Developer Tooling | Servidor bare-metal con Ollama, modelos abiertos, OpenCode y criterios de seguridad para prompts y datos. | Documentado |
 | [**Web personal**](https://lanuzalorenzo.github.io) | Presentación profesional | Sitio estático accesible, con experiencia, especialidades, proyectos y enlaces al ecosistema. | Publicado |
