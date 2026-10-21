@@ -95,6 +95,8 @@ Actualmente aplico toda esa experiencia en el diseño de software resiliente y s
 | [**AI Agent Local Lab**](https://github.com/lanuzalorenzo/ai-agent-local-lab) | IA local & Developer Tooling | Servidor bare-metal con Ollama, modelos abiertos, OpenCode y criterios de seguridad para prompts y datos. | Documentado |
 | [**Web personal**](https://lanuzalorenzo.github.io) | Presentación profesional | Sitio estático accesible, con experiencia, especialidades, proyectos y enlaces al ecosistema. | Publicado |
 
+> **¿Primera vez en el portfolio?** Empieza por la [guía de lectura](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/blob/main/docs/guia-de-lectura.md): qué es, qué no es y en qué orden leerlo.
+
 > **Criterio de estado:** *Implementado y probado localmente* significa que el código se ejecuta y las pruebas pasan en el entorno de desarrollo. *Documentado* significa que la arquitectura, el procedimiento o el laboratorio están descritos, sin presentarlos como un despliegue de producción.
 
 ---
