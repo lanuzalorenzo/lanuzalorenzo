@@ -3,11 +3,12 @@
 Este repositorio genera la portada pública del perfil de GitHub (README de perfil). Cualquier asistente de IA (GitHub Copilot, Google Antigravity, Claude, etc.) debe seguir estas directrices:
 
 ## Criterio editorial y posicionamiento
+- Este README es una **tarjeta de presentación**, no la biografía completa: la fuente única de trayectoria, stack y formación es la web personal (`lanuzalorenzo.github.io`). No dupliques aquí el contenido largo.
 - Mantener el posicionamiento técnico sénior: Software Architect (.NET & Azure) especializado en Cloud Security y DevSecOps.
-- Reflejar con rigor la experiencia contrastada, métricas de impacto cuantitativas y certificaciones oficiales.
 - Enlazar al portfolio público de ciberseguridad sin revelar datos o enlaces a repositorios privados del curso.
 - Mantener la tabla de proyectos y estados alineada con el portfolio; no presentar un diseño o un runbook preparado como validación.
 - Mantener el enlace a la guía de lectura del portfolio (`docs/guia-de-lectura.md`) alineado con la tabla de proyectos; si cambia su URL, actualizarlo.
+- Mantener el enlace al CV ATS (`https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf`) si cambia su ruta.
 
 ## Convenciones de Commits
 Todos los commits de este repositorio deben seguir estrictamente el estándar **Conventional Commits**:
