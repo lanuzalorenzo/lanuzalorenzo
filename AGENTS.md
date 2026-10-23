@@ -1,21 +1,18 @@
 # Guía para agentes: Perfil personal (lanuzalorenzo)
 
-Este repositorio genera la portada pública del perfil de GitHub (README de perfil). Cualquier asistente de IA (GitHub Copilot, Google Antigravity, Claude, etc.) debe seguir estas directrices:
+> **Si llegas nuevo:** el contrato de contenido es el de `portfolio-ciberseguridad-lorenzo/AGENTS.md`. Este archivo añade convenciones propias del perfil público.
 
-## Criterio editorial y posicionamiento
-- Este README es una **tarjeta de presentación**, no la biografía completa: la fuente única de trayectoria, stack y formación es la web personal (`lanuzalorenzo.github.io`). No dupliques aquí el contenido largo.
-- Mantener el posicionamiento técnico sénior: Software Architect (.NET & Azure) especializado en Cloud Security y DevSecOps.
-- Enlazar al portfolio público de ciberseguridad sin revelar datos o enlaces a repositorios privados del curso.
-- Mantener la tabla de proyectos y estados alineada con el portfolio; no presentar un diseño o un runbook preparado como validación.
-- Mantener el enlace a la guía de lectura del portfolio (`docs/guia-de-lectura.md`) alineado con la tabla de proyectos; si cambia su URL, actualizarlo.
-- Mantener el enlace al CV ATS (`https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf`) si cambia su ruta.
+Este repositorio genera la portada pública del perfil de GitHub (README de perfil).
+
+## Convenciones de contenido (compartidas con el portfolio)
+- **Prohibido:** bloques «En fácil», «TL;DR», «En resumen» u otros rótulos de registro. Se escribe en español claro y directo.
+- **Estados:** usa solo **Validado**, **Parcial**, **Runbook preparado**, **Diseño** o **Pendiente**. Un diseño o runbook sin ejecutar no es una validación.
+- **Estructura:** el README de perfil es una tarjeta de presentación, no la biografía completa. La fuente única de trayectoria, stack y formación es la web personal (`lanuzalorenzo.github.io`). No dupliques aquí el contenido largo.
+- **Mantén la tabla de proyectos y estados alineada** con el portfolio; no presentes un diseño o runbook preparado como validación.
+- **Enlaces clave:** guía de lectura (`docs/guia-de-lectura.md`) y CV ATS (`https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf`). Si cambian sus rutas, actualízalos.
 
 ## Convenciones de Commits
-Todos los commits de este repositorio deben seguir estrictamente el estándar **Conventional Commits**:
-- Formato: `type(scope): imperative summary in English`.
-- **Ámbitos (`scope`) permitidos:** `profile`, `repo`.
-- **Tipos permitidos:** `feat`, `fix`, `docs`, `refactor`, `chore`.
-- El asunto debe ser imperativo, conciso y redactado en inglés.
-- Ejemplos:
-  - `docs(profile): update software architect summary and devsecops focus`
-  - `docs(profile): format contact information and badges`
+Formato: `type(scope): imperative summary in English`.
+Ámbitos permitidos: `profile`, `repo`.
+Tipos permitidos: `feat`, `fix`, `docs`, `refactor`, `chore`.
+El asunto debe ser imperativo, conciso y en inglés.

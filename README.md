@@ -1,4 +1,4 @@
-# 👋 Hola, soy Lorenzo Lanuza Arellano
+# Hola, soy Lorenzo Lanuza Arellano
 
 **Software Architect (.NET & Azure) | DevSecOps & Cloud Security Specialist**
 
@@ -7,17 +7,17 @@
 [![CV](https://img.shields.io/badge/CV-Descargar%20PDF-24292e?style=flat&logo=adobeacrobatreader)](https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf)
 [![Portfolio Ciberseguridad](https://img.shields.io/badge/Portfolio-Ciberseguridad%20Cloud-0078D4?style=flat&logo=microsoftazure)](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo)
 [![Email](https://img.shields.io/badge/Email-lanuzalorenzo%40gmail.com-D14836?style=flat&logo=gmail)](mailto:lanuzalorenzo@gmail.com)
-[![Ubicación](https://img.shields.io/badge/Ubicación-Huesca%2C%20Espa%C3%B1a%20(Remoto)-24292e?style=flat&logo=googlemaps)](https://www.linkedin.com/in/lanuzalorenzo)
+[![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Huesca%2C%20Espa%C3%B1a%20(Remoto)-24292e?style=flat&logo=googlemaps)](https://www.linkedin.com/in/lanuzalorenzo)
 
 Soy **Arquitecto de Software y especialista en Ciberseguridad Cloud / DevSecOps** con casi 10 años de trayectoria en el ecosistema **.NET y Microsoft Azure**, especializado en sistemas distribuidos, arquitecturas orientadas a eventos (EDA) y microservicios de alta concurrencia.
 
 > **Comprendo de forma profunda cómo se diseña, programa y despliega el software corporativo real.** Esto me permite liderar la adopción de **Security by Design, Shift-Left y Defense-in-Depth** eliminando la clásica fricción entre desarrollo, operaciones y seguridad.
 
-📄 **Trayectoria completa, stack y formación:** [lanuzalorenzo.github.io](https://lanuzalorenzo.github.io) · [CV ATS en PDF](https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf)
+**Trayectoria completa, stack y formación:** [lanuzalorenzo.github.io](https://lanuzalorenzo.github.io) · [CV ATS en PDF](https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf)
 
 ---
 
-### 📂 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto / Repositorio | Ámbito principal | Estado |
 |---|---|---|
@@ -27,7 +27,7 @@ Soy **Arquitecto de Software y especialista en Ciberseguridad Cloud / DevSecOps*
 
 > **¿Primera vez en el portfolio?** Empieza por la [guía de lectura](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/blob/main/docs/guia-de-lectura.md): qué es, qué no es y en qué orden leerlo.
 
-### 🎯 Especialidades
+## Especialidades
 
 - **Arquitectura de Software (.NET & Azure):** microservicios, Clean Architecture, DDD, EDA (Azure Service Bus, Event Hubs), Outbox Pattern y APIs REST de alto rendimiento.
 - **DevSecOps & Supply Chain Security:** Azure DevOps y GitHub Actions, SAST/SCA, Trivy, Docker, IaC con Bicep y despliegues sin secretos con OIDC / Workload Identity.
@@ -36,7 +36,7 @@ Soy **Arquitecto de Software y especialista en Ciberseguridad Cloud / DevSecOps*
 
 ---
 
-### 📫 Contacto
+## Contacto
 
 - **LinkedIn:** [linkedin.com/in/lanuzalorenzo](https://www.linkedin.com/in/lanuzalorenzo)
 - **Email:** [lanuzalorenzo@gmail.com](mailto:lanuzalorenzo@gmail.com)
