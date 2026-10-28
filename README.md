@@ -1,3 +1,5 @@
+<img src="assets/iconos/perfil.svg" width="64" alt="Icono del perfil de GitHub">
+
 # Hola, soy Lorenzo Lanuza Arellano
 
 **Software Architect (.NET & Azure) | DevSecOps & Cloud Security Specialist**
@@ -21,9 +23,9 @@ Soy **Arquitecto de Software y especialista en Ciberseguridad Cloud / DevSecOps*
 
 | Proyecto / Repositorio | Ámbito principal | Estado |
 |---|---|---|
-| [**Portfolio de Ciberseguridad Cloud**](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo) | Cloud Security & DevSecOps: 12 módulos, con estado de validación explícito y laboratorio final con siete evidencias indexadas. | Documentado · 7 evidencias |
-| [**EcommerceApi — API Segura de Referencia**](https://github.com/lanuzalorenzo/lab-api-local-azure) | AppSec, Arquitectura & DevSecOps: API .NET 10 con OAuth 2.0/PKCE, JWT/JWKS, aislamiento BOLA, Docker no-root, CodeQL, Trivy y Bicep. | Implementado, probado y validado en CI |
-| [**AI Agent Local Lab**](https://github.com/lanuzalorenzo/ai-agent-local-lab) | IA local & Developer Tooling: servidor bare-metal con Ollama, modelos abiertos y criterios de seguridad para prompts y datos. | Documentado |
+| <img src="assets/iconos/portfolio.svg" width="32" alt=""> [**Portfolio de Ciberseguridad Cloud**](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo) | Cloud Security & DevSecOps: 12 módulos, con estado de validación explícito y laboratorio final con siete evidencias indexadas. | Documentado · 7 evidencias |
+| <img src="assets/iconos/api.svg" width="32" alt=""> [**EcommerceApi — API Segura de Referencia**](https://github.com/lanuzalorenzo/lab-api-local-azure) | AppSec, Arquitectura & DevSecOps: API .NET 10 con OAuth 2.0/PKCE, JWT/JWKS, aislamiento BOLA, Docker no-root, CodeQL, Trivy y Bicep. | Implementado, probado y validado en CI |
+| <img src="assets/iconos/ia-local.svg" width="32" alt=""> [**AI Agent Local Lab**](https://github.com/lanuzalorenzo/ai-agent-local-lab) | IA local & Developer Tooling: servidor bare-metal con Ollama, modelos abiertos y criterios de seguridad para prompts y datos. | Documentado |
 
 > **¿Primera vez en el portfolio?** Empieza por la [guía de lectura](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/blob/main/docs/guia-de-lectura.md): qué es, qué no es y en qué orden leerlo.
 
