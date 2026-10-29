@@ -2,14 +2,14 @@
 
 # Hola, soy Lorenzo Lanuza Arellano
 
-**Software Architect (.NET & Azure) | DevSecOps & Cloud Security Specialist**
+**Senior Software Engineer & Software Architect (.NET & Azure) | DevSecOps & Cloud Security**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Lanuza-0e2a47?style=flat-square&labelColor=07131e)](https://www.linkedin.com/in/lanuzalorenzo)
 [![Web personal](https://img.shields.io/badge/Web-lanuzalorenzo.github.io-0e2a47?style=flat-square&labelColor=07131e)](https://lanuzalorenzo.github.io)
 [![CV](https://img.shields.io/badge/CV-Descargar%20PDF-0e2a47?style=flat-square&labelColor=07131e)](https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf)
 [![Email](https://img.shields.io/badge/Email-lanuzalorenzo%40gmail.com-0e2a47?style=flat-square&labelColor=07131e)](mailto:lanuzalorenzo@gmail.com)
 
-Soy **Arquitecto de Software y especialista en Ciberseguridad Cloud / DevSecOps** con casi 10 años de trayectoria en el ecosistema **.NET y Microsoft Azure**, especializado en sistemas distribuidos, arquitecturas orientadas a eventos (EDA) y microservicios de alta concurrencia.
+Soy **ingeniero de software senior** con casi 10 años de trayectoria en el ecosistema **.NET y Microsoft Azure**, especializado en sistemas distribuidos, arquitecturas orientadas a eventos (EDA) y microservicios de alta concurrencia. Aplico la seguridad dentro del propio desarrollo: identidad, AppSec y una pipeline con gates que bloquean el merge.
 
 > **Comprendo de forma profunda cómo se diseña, programa y despliega el software corporativo real.** Esto me permite liderar la adopción de **Security by Design, Shift-Left y Defense-in-Depth** eliminando la clásica fricción entre desarrollo, operaciones y seguridad.
 
