@@ -4,12 +4,10 @@
 
 **Software Architect (.NET & Azure) | DevSecOps & Cloud Security Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Lanuza-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/lanuzalorenzo)
-[![Web personal](https://img.shields.io/badge/Web-lanuzalorenzo.github.io-4F6621?style=flat&logo=githubpages)](https://lanuzalorenzo.github.io)
-[![CV](https://img.shields.io/badge/CV-Descargar%20PDF-24292e?style=flat&logo=adobeacrobatreader)](https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf)
-[![Portfolio Ciberseguridad](https://img.shields.io/badge/Portfolio-Ciberseguridad%20Cloud-0078D4?style=flat&logo=microsoftazure)](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo)
-[![Email](https://img.shields.io/badge/Email-lanuzalorenzo%40gmail.com-D14836?style=flat&logo=gmail)](mailto:lanuzalorenzo@gmail.com)
-[![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Huesca%2C%20Espa%C3%B1a%20(Remoto)-24292e?style=flat&logo=googlemaps)](https://www.linkedin.com/in/lanuzalorenzo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Lanuza-0e2a47?style=flat-square&labelColor=07131e)](https://www.linkedin.com/in/lanuzalorenzo)
+[![Web personal](https://img.shields.io/badge/Web-lanuzalorenzo.github.io-0e2a47?style=flat-square&labelColor=07131e)](https://lanuzalorenzo.github.io)
+[![CV](https://img.shields.io/badge/CV-Descargar%20PDF-0e2a47?style=flat-square&labelColor=07131e)](https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf)
+[![Email](https://img.shields.io/badge/Email-lanuzalorenzo%40gmail.com-0e2a47?style=flat-square&labelColor=07131e)](mailto:lanuzalorenzo@gmail.com)
 
 Soy **Arquitecto de Software y especialista en Ciberseguridad Cloud / DevSecOps** con casi 10 años de trayectoria en el ecosistema **.NET y Microsoft Azure**, especializado en sistemas distribuidos, arquitecturas orientadas a eventos (EDA) y microservicios de alta concurrencia.
 
