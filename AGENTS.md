@@ -7,13 +7,11 @@ README de perfil de GitHub: una tarjeta de presentación, no la biografía ni el
 - La fuente única de trayectoria, stack, formación y certificaciones es la web personal: <https://lanuzalorenzo.github.io>. Aquí solo posicionamiento, proyectos y enlaces; no dupliques el contenido largo.
 - Mantén la tabla de proyectos y estados alineada con el portfolio; no presentes un diseño o un runbook preparado como validación.
 - Enlaces clave: [guía de lectura](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/blob/main/docs/guia-de-lectura.md) y [CV ATS](https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf). Si cambian sus rutas, actualízalos.
+- `main` exige PR, los dos checks de CI y rama actualizada; solo el propietario fusiona.
 
 ## Estilo
 
-- Español claro y directo, sin rótulos de registro («En fácil», «TL;DR», «En resumen»).
-- **Apertura llana:** los textos largos abren con dos o tres frases sin jerga y una comparación cotidiana, y aclaran cada término en su primera aparición. La claridad no cambia lo que el texto afirma. El estándar completo está en el [contrato del portfolio](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/blob/main/AGENTS.md).
-- Estados: Validado · Parcial · Runbook preparado · Diseño · Pendiente.
-- Sin secretos, datos personales sensibles ni enlaces a repositorios privados.
+- El estándar editorial completo —español claro, apertura llana, jerga y claridad que no cambia lo que se afirma— está en el [contrato del portfolio](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/blob/main/AGENTS.md). En este README: estados explícitos (Validado · Parcial · Runbook preparado · Diseño · Pendiente), sin secretos, datos personales sensibles ni enlaces a repositorios privados.
 
 ## Commits
 
