@@ -10,10 +10,7 @@ README de perfil de GitHub: una tarjeta de presentación, no la biografía ni el
 
 ## Estilo
 
-- Español claro y directo, sin rótulos de registro («En fácil», «TL;DR», «En resumen»).
-- **Apertura llana:** los textos largos abren con dos o tres frases sin jerga y una comparación cotidiana, y aclaran cada término en su primera aparición. La claridad no cambia lo que el texto afirma. El estándar completo está en el [contrato del portfolio](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/blob/main/AGENTS.md).
-- Estados: Validado · Parcial · Runbook preparado · Diseño · Pendiente.
-- Sin secretos, datos personales sensibles ni enlaces a repositorios privados.
+- El estándar editorial completo —español claro, apertura llana, jerga y claridad que no cambia lo que se afirma— está en el [contrato del portfolio](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/blob/main/AGENTS.md). En este README: estados explícitos (Validado · Parcial · Runbook preparado · Diseño · Pendiente), sin secretos, datos personales sensibles ni enlaces a repositorios privados.
 
 ## Commits
 
