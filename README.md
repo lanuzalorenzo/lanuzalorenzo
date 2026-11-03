@@ -21,7 +21,7 @@ Soy **ingeniero de software senior** con casi 10 años de trayectoria en el ecos
 
 | Proyecto / Repositorio | Ámbito principal | Estado |
 |---|---|---|
-| <img src="assets/iconos/portfolio.svg" width="32" alt=""> [**Portfolio de Ciberseguridad Cloud**](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo) | Cloud Security & DevSecOps: 12 módulos, con estado de validación explícito y laboratorio final con siete evidencias indexadas. | Documentado · 7 evidencias |
+| <img src="assets/iconos/portfolio.svg" width="32" alt=""> [**Portfolio de Ciberseguridad Cloud**](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo) | Cloud Security & DevSecOps: 12 módulos, con estado de validación explícito y laboratorio final con ocho evidencias indexadas. | Documentado · 8 evidencias |
 | <img src="assets/iconos/api.svg" width="32" alt=""> [**EcommerceApi — API Segura de Referencia**](https://github.com/lanuzalorenzo/lab-api-local-azure) | AppSec, Arquitectura & DevSecOps: API .NET 10 con OAuth 2.0/PKCE, JWT/JWKS, aislamiento BOLA, Docker no-root, CodeQL, Trivy y Bicep. | Implementado, probado y validado en CI |
 | <img src="assets/iconos/ia-local.svg" width="32" alt=""> [**Laboratorio de aprendizaje en IA**](https://github.com/lanuzalorenzo/lab-ia-aprendizaje) | IA local & Developer Tooling: servidor bare-metal con Ollama, clientes de desarrollo, continuidad entre sesiones y criterios de seguridad para prompts y datos. | Documentado |
 
