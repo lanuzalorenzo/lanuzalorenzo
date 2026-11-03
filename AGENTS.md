@@ -7,7 +7,7 @@ README de perfil de GitHub: una tarjeta de presentación, no la biografía ni el
 - La fuente única de trayectoria, stack, formación y certificaciones es la web personal: <https://lanuzalorenzo.github.io>. Aquí solo posicionamiento, proyectos y enlaces; no dupliques el contenido largo.
 - Mantén la tabla de proyectos y estados alineada con el portfolio; no presentes un diseño o un runbook preparado como validación.
 - Enlaces clave: [guía de lectura](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/blob/main/docs/guia-de-lectura.md) y [CV ATS](https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf). Si cambian sus rutas, actualízalos.
-- `main` exige PR, los dos checks de CI y rama actualizada; solo el propietario fusiona.
+- `main` exige PR, los dos checks de CI y rama actualizada; solo el propietario fusiona, salvo las PRs de Dependabot de parche y minor, que fusiona el flujo automático si pasan los checks.
 
 ## Estilo
 
