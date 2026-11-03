@@ -13,6 +13,15 @@ README de perfil de GitHub: una tarjeta de presentación, no la biografía ni el
 
 - El estándar editorial completo —español claro, apertura llana, jerga y claridad que no cambia lo que se afirma— está en el [contrato del portfolio](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/blob/main/AGENTS.md). En este README: estados explícitos (Validado · Parcial · Runbook preparado · Diseño · Pendiente), sin secretos, datos personales sensibles ni enlaces a repositorios privados.
 
+## Verificación
+
+```bash
+python3 scripts/check_links.py
+gitleaks detect --source . --redact --verbose --exit-code 2
+```
+
+Son los dos checks de `.github/workflows/ci.yml`: enlaces relativos y secretos sobre el historial completo.
+
 ## Commits
 
 Formato: `type(scope): imperative summary in English`. Scopes: `profile`, `repo`. Tipos: `feat`, `fix`, `docs`, `refactor`, `chore`. Asunto imperativo, conciso y en inglés.
