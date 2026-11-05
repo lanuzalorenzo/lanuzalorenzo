@@ -16,11 +16,10 @@ README de perfil de GitHub: una tarjeta de presentación, no la biografía ni el
 ## Verificación
 
 ```bash
-python3 scripts/check_links.py
 gitleaks detect --source . --redact --verbose --exit-code 2
 ```
 
-Son los dos checks de `.github/workflows/ci.yml`: enlaces relativos y secretos sobre el historial completo.
+Los enlaces relativos y sus anclas los comprueba la acción compartida de [`core`](https://github.com/lanuzalorenzo/core) desde `.github/workflows/ci.yml`; aquí queda el escaneo de secretos sobre el historial completo.
 
 ## Commits
 
