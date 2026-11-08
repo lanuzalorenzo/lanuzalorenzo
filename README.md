@@ -4,6 +4,8 @@
 
 **Senior Software Engineer & Software Architect (.NET & Azure) | DevSecOps & Cloud Security**
 
+**In English.** I am a senior software engineer and architect with over 10 years in the .NET and Microsoft Azure ecosystem, specialised in distributed systems, event-driven architectures and high-concurrency microservices. I apply security inside development itself: identity, AppSec and a pipeline with gates that block the merge.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Lanuza-0e2a47?style=flat-square&labelColor=07131e)](https://www.linkedin.com/in/lanuzalorenzo)
 [![Web personal](https://img.shields.io/badge/Web-lanuzalorenzo.github.io-0e2a47?style=flat-square&labelColor=07131e)](https://lanuzalorenzo.github.io)
 [![CV](https://img.shields.io/badge/CV-Descargar%20PDF-0e2a47?style=flat-square&labelColor=07131e)](https://lanuzalorenzo.github.io/assets/cv/lanuza-lorenzo-cv.pdf)
@@ -22,7 +24,7 @@ Soy **ingeniero de software senior** con más de 10 años de trayectoria en el e
 | Proyecto / Repositorio | Ámbito principal | Estado |
 |---|---|---|
 | <img src="assets/iconos/portfolio.svg" width="32" alt=""> [**Portfolio de Ciberseguridad Cloud**](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo) | Cloud Security & DevSecOps: 12 módulos, con estado de validación explícito y laboratorio final con evidencias indexadas. | Parcial · [evidencias](https://github.com/lanuzalorenzo/portfolio-ciberseguridad-lorenzo/tree/main/laboratorio-final/evidencias) |
-| <img src="assets/iconos/api.svg" width="32" alt=""> [**EcommerceApi — API Segura de Referencia**](https://github.com/lanuzalorenzo/lab-api-local-azure) | AppSec, Arquitectura & DevSecOps: API .NET 10 con OAuth 2.0/PKCE, JWT/JWKS, aislamiento BOLA, Docker no-root, CodeQL, Trivy y Bicep. | Parcial · [CI](https://github.com/lanuzalorenzo/lab-api-local-azure/actions/workflows/devsecops-ci.yml) |
+| <img src="assets/iconos/api.svg" width="32" alt=""> [**EcommerceApi — API Segura de Referencia**](https://github.com/lanuzalorenzo/lab-api-local-azure) | AppSec, Arquitectura & DevSecOps: API .NET 10 con validación de tokens OAuth 2.0 y Entra ID, JWT/JWKS, aislamiento BOLA, Docker no-root, CodeQL, Trivy y Bicep. | Parcial · [CI](https://github.com/lanuzalorenzo/lab-api-local-azure/actions/workflows/devsecops-ci.yml) |
 | <img src="assets/iconos/ia-local.svg" width="32" alt=""> [**Portfolio de aprendizaje en IA**](https://github.com/lanuzalorenzo/lab-ia-aprendizaje) | IA aplicada y herramientas de desarrollo: guías para montar un modelo con Ollama, trabajar con agentes (OpenCode, instrucciones y continuidad), decidir qué sale de la red y experimentos medidos de robustez y coste. | Parcial · [experimentos](https://github.com/lanuzalorenzo/lab-ia-aprendizaje/tree/main/docs/experimentos) |
 | <img src="assets/iconos/core.svg" width="32" alt=""> [**core — CI compartida**](https://github.com/lanuzalorenzo/core) | Automatización: acciones y workflows reutilizables para enlaces con anclas y compilación .NET, con una sola lógica para todos los repositorios. | Validado · [CI](https://github.com/lanuzalorenzo/core/actions/workflows/selftest.yml) |
 | <img src="assets/iconos/shared-dotnet.svg" width="32" alt=""> [**shared-dotnet — controles compartidos**](https://github.com/lanuzalorenzo/shared-dotnet) | Plataforma: paquetes NuGet con CORS cerrado por defecto, JWT endurecido, cabeceras, límite por IP, ProblemDetails y HSTS, con 22 pruebas. | Validado · [CI](https://github.com/lanuzalorenzo/shared-dotnet/actions/workflows/ci.yml) |
