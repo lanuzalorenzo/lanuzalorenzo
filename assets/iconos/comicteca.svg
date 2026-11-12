@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Comicteca">
+  <title>Comicteca</title>
+  <desc>Identidad visual: navy con degradado y glifo de acento.</desc>
+  <defs>
+    <linearGradient id="bg-comicteca" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07131e"/>
+      <stop offset="100%" stop-color="#0e2a47"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bg-comicteca)" />
+  <path id="c" fill="#38bdf8" d="M797.88 712.18 A349 349 0 1 1 797.88 311.82 L693.03 385.24 A221 221 0 1 0 693.03 638.76 Z" />
+  <mask id="lomo">
+    <use href="#c" fill="#ffffff" />
+  </mask>
+  <rect x="226" y="0" width="22" height="1024" fill="#07131e" mask="url(#lomo)" />
+</svg>
