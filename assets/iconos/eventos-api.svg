@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <title>Eventos API</title>
-  <desc>Cola de tres eventos que se vacía: el de arriba, en acento; los que esperan, en tinta clara.</desc>
+  <desc>Cola de tres eventos que se vacía: tres barras blancas de longitud decreciente.</desc>
   <defs>
     <linearGradient id="bg-eventos-api" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#07131e"/>
       <stop offset="100%" stop-color="#0e2a47"/>
     </linearGradient>
   </defs>
-  <rect rx="16" fill="url(#bg-eventos-api)"/>
+  <rect width="64" height="64" rx="16" fill="url(#bg-eventos-api)"/>
   <rect x="1" y="1" width="62" height="62" rx="15" fill="none" stroke="#38bdf8" stroke-width="2"/>
   <g transform="translate(10 10) scale(1.83334)">
-    <rect x="2.5" y="3.6" width="19" height="3.4" rx="1.7" fill="#38bdf8"/>
+    <rect x="2.5" y="3.6" width="19" height="3.4" rx="1.7" fill="#f8fafc"/>
     <rect x="2.5" y="10.3" width="13.5" height="3.4" rx="1.7" fill="#f8fafc"/>
     <rect x="2.5" y="17" width="8.5" height="3.4" rx="1.7" fill="#f8fafc"/>
   </g>
